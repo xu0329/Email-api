@@ -1,9 +1,5 @@
 # Email-api
 
-- ### [Quick Start](#quick-start)
-
-- ### [Note](#note)
-- ### [Support](#support)
 
 
 ## Quick Start
